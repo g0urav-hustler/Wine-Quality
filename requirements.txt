@@ -1,3 +1,7 @@
+# local package install 
+-e .
+
+# third pary install
 dvc
 dvc[gdrive]
 sklearn
@@ -5,6 +9,6 @@ pandas
 pytest
 tox
 flake8
-flask
-gunicorn
-PyYAML
+# flask
+# gunicorn
+# PyYAML
