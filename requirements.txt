@@ -1,7 +1,3 @@
-# local package install
--e .
-
-# third party packages
 dvc
 dvc[gdrive]
 sklearn
